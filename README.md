@@ -9,3 +9,5 @@ To run the Jupyter notebook, you will need to install the following packages:
 * matplotlib
 * mlxtend
 * shap
+
+Please place the data_on - Shortened.csv in the same folder as the Jupyter Notebook before running the notebook.
